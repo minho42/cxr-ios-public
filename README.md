@@ -2,13 +2,19 @@
 
 A chest X-Ray learning app.
 
-## Note/Warning
+## Note
 
 [Data limitations](https://www.kaggle.com/datasets/nih-chest-xrays/data):
 
 > "The image labels are NLP (natural language processing) extracted so there could be some erroneous labels but the NLP labelling accuracy is estimated to be >90%."
 
 As the interpretation of the data is not 100% accurate, there could be cases of incorrect data, such as inaccurately labelled chest X-rays, false positives, false negatives, correctly labeling but missing other diseases in the labeling, etc.
+
+## Warning
+
+This app is for educational purposes only.
+Do not make medical decisions or diagnoses based on the images or information in this app.
+Always seek advice from a qualified healthcare professional.
 
 ## Data
 
@@ -33,6 +39,10 @@ Result: 50,000+ chest X-ray images from 30,000+ unique patients.
 ## Privacy Policy
 
 [Privacy Policy](privacy-policy.md)
+
+## Terms of Service
+
+[Terms of Service](terms-of-service.md)
 
 ## Support
 
